@@ -170,6 +170,7 @@ main{
     border-radius: 12px;
     box-shadow: var(--shadow);
     color: var(--primary-text-color);
+    cursor: pointer;
 }
 
 .alternativas label:hover{
